@@ -61,11 +61,3 @@ plt.xlabel('Steps')
 plt.ylabel('Portfolio Value')
 plt.title('Value of Portfolio Over Time')
 plt.show()
-
-## Plot the individual stock prices
-#for i in range(n_stocks):
-#    plt.plot(portfolio[i])
-#plt.xlabel('Steps')
-#plt.ylabel('Stock Price')
-#plt.title('Individual Stock Prices Over Time')
-#plt.show()
